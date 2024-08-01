@@ -2,7 +2,7 @@
 
 ## Getting started
 
-### Frontend
+### Start up
 
 1. Install dependencies
 
@@ -18,15 +18,13 @@
    ```
 
 
-### Start up
-
-1. Build docker image
+3. Build docker image
 
    ```bash
    docker build
    ```
 
-2. Start the services
+4. Start the services
     ```bash
    docker-compose up -d
    ```
